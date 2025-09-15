@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@nut-tree-fork/nut-js": "^4.2.6",
+    "selfsigned": "^3.0.1",
     "ws": "^8.18.3"
   }
 }
